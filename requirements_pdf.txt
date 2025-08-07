@@ -1,0 +1,11 @@
+gradio>=4.0.0
+PyPDF2
+pdf2image
+PyMuPDF
+requests
+json-repair
+openai
+pillow
+numpy
+torch
+lightrag-hku[api]
