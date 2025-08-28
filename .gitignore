@@ -1,3 +1,7 @@
 *.log
 
 .venv/
+
+.DS_Store
+
+.gradio/
